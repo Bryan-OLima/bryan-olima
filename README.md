@@ -16,4 +16,4 @@ Want to know more about me? Check out my repos and portifolio.
 * [Nelio Alves' C# Course](https://github.com/Bryan-OLima/CSharpCourse) (C#)
 
 ## 💼 Skills
-<img src="https://skillicons.dev/icons?i=cs,ts,react,angular,firebase" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=cs,ts,react,angular,firebase,mysql" alt="Tech Stack" />
