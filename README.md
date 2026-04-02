@@ -9,7 +9,7 @@ Want to know more about me? Check out my repos and portifolio.
 * Project 1
 * Project 2
 
-##📌 Pinned Repositories
+## 📌 Pinned Repositories
 * Repository 1
 * Repository 2
 
