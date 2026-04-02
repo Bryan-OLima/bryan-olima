@@ -6,12 +6,14 @@ I'm Bryan, a junior full-stack developer. My focus is make user-problems into we
 Want to know more about me? Check out my repos and portifolio.
 
 ## 📝 Latest Projects
-* Project 1
-* Project 2
 
-## 📌 Pinned Repositories
-* Repository 1
-* Repository 2
+* [Payment Generator](https://geradorrecibo.netlify.app/) (JS Vanilla)
+* [TicTacToe](https://bryandev-tictactoe.netlify.app/) (AngularTS)
+* [Todo List](https://bryandev-todolist.netlify.app/) (AngularTS)
+
+## Working On
+* [Red Fox Gaming Hub](https://github.com/Bryan-OLima/redFoxRacing) (ReactTs/Vite)
+* [Nelio Alves' C# Course](https://github.com/Bryan-OLima/CSharpCourse) (C#)
 
 ## 📈 GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
